@@ -2,7 +2,7 @@
 
 **Ad-Soyad:** Elif Azra Yılmaz 
 **Öğrenci No:** 202607131001
-**PR Bağlantısı:** 
+**PR Bağlantısı:** https://github.com/azrayilmazz/llm-db-project.git
 **Okuduğu Bölüm:** Yapay Zeka Operatörlüğü
 
 ---
